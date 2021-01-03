@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "53823785440",
+    "firebase_url": "https://snapchat-java-f8690.firebaseio.com",
+    "project_id": "snapchat-java-f8690",
+    "storage_bucket": "snapchat-java-f8690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53823785440:android:ae6eefa0105f7f82d0c385",
+        "android_client_info": {
+          "package_name": "gurveen.com.snapchatjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53823785440-m8q3fkj0dids2tunj2v0as0e6nq97me3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH8SreK0I4lm9DCpe8IIgl8WK_t_Bn87k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53823785440-m8q3fkj0dids2tunj2v0as0e6nq97me3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
